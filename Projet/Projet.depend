@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1732476111 source:/home/vboxuser/Documents/Projet/poisson.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cmath>
+	<iostream>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+
